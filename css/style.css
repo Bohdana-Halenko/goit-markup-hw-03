@@ -88,6 +88,7 @@ img {
 .contacts-list {
   margin-left: auto;
   display: flex;
+  align-items: center;
 }
 .contacts-list .link {
   color: var(--primary-text-color);
